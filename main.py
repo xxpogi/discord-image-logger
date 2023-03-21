@@ -45,7 +45,7 @@ config = {
                 # 1 = Don't ping when it's possibly a bot
                 # 2 = Don't ping when it's 100% a bot
                 # 3 = Don't send an alert when it's possibly a bot
-                # 4 = Don't send an alert when it's 100% a bot
+                # 4 = Don't send an alert when it's  a bot
     
 
     # REDIRECTION #
